@@ -4,10 +4,8 @@ date: 2026-09-17
 category: 随笔
 tags:
   - 游记
-description: 完全胜利！
+description: # 完全胜利！
 ---
-
-# 漫步丽江古城
 
 ## 初遇古城
 
