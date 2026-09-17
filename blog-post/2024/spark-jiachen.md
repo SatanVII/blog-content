@@ -1,7 +1,7 @@
 ---
 title: 火花集·甲辰
 date: 2024-06-01
-category: 一心净土
+category: 灵感
 tags:
   - 火花
 ---

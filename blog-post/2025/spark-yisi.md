@@ -1,7 +1,7 @@
 ---
 title: 火花集·乙巳
 date: 2025-03-15
-category: 一心净土
+category: 灵感
 tags:
   - 火花
 ---

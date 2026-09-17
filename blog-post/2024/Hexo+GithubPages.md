@@ -1,7 +1,7 @@
 ---
 title: 测试
 date: 2024-10-20
-category: 藏星
+category: 日志
 tags:
   - 天文
 description: 秋季星空观测笔记。
