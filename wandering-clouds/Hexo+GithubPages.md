@@ -35,14 +35,14 @@ console.log(`仙女座星系距离：${distance} 光年`)
 請打開桌面右鍵出現的Git Bash Here來執行以下所有命令
 
 使用npm命令來進行安裝Hexo
-```
+```ts
 npm install -g hexo-cli
 ```
 
 
 ## 開始搭建網站
 首先新建一個檔案夾，在所建檔案夾中右鍵打開Git Bash執行
-```
+```ts
 hexo init blog
 ```
 這一步會生成一個檔案夾
@@ -81,7 +81,7 @@ SatanVII.github.io
 
 ## 將庫連接至電腦本地
 首先打開Git Bash,輸入命令
-```
+```ts
 git config --global user.name "你的Github用戶名"
 git config --global user.email "你註冊Github的郵箱地址"
 ```
@@ -99,7 +99,7 @@ ssh -T git@github.com
 ```
 
 如出現
-```
+```ts
 The authenticity of host 'github.com (207.97.227.239)' can't be established.  
 RSA key fingerprint is 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48.  
 Are you sure you want to continue connecting (yes/no)?  
