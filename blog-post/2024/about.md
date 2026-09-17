@@ -1,7 +1,7 @@
 ---
 title: 云山栖
 date: 2024-01-01
-category: 观云碎月
+category: 关于
 tags:
   - 自述
 description: 愿似飘飖五云影，从来从去九天间。
