@@ -1,18 +1,18 @@
 ---
-title: 云山栖
+title: About
 date: 2024-01-01
 category: 关于
 tags:
   - 自述
-description: 挹君去，長相思，雲遊雨散從此辭。
+description: 我是人类
 ---
 
 ## 关于
 
-这里是字嶼隅，一座漂浮在云端的居所。
+### 2024年
+无意间看到了蝉时雨老师的博客[Zero](Create backup)十分喜欢，无奈我是一个代码小白，只能眼馋
 
-写一些文字，看一些云，记录思考与生活的碎片。
+### 2026年
+时间来到2026！AI好厉害！本站由GLM-5.3-Flash重构到Astro，实现梦想~
 
-## 联系
-
-- GitHub: [SatanVII](https://github.com/SatanVII)
+- 感谢蝉时雨老师伟大的审美！
