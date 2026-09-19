@@ -1,0 +1,30 @@
+name: Notify blog repo
+
+# 内容推送到 blog-content 后，立即通知 SatanVII/ReZero 执行子模块同步。
+# 需要 secret：DISPATCH_TOKEN（fine-grained PAT，对 SatanVII/ReZero 有 Contents 读写权限）；
+# 未配置时跳过并提示（不报错）。
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send repository_dispatch to SatanVII/ReZero
+        env:
+          TOKEN: ${{ secrets.DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo 'DISPATCH_TOKEN secret 未配置，跳过通知（blog-content Settings → Secrets and variables → Actions 新建 DISPATCH_TOKEN）'
+            exit 0
+          fi
+          curl -fsS -X POST \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/SatanVII/ReZero/dispatches \
+            -d '{"event_type":"content-updated"}'
+          echo "repository_dispatch sent"
