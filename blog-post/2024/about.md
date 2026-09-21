@@ -11,7 +11,7 @@ description: 我是人类
 
 2024年
 
-无意间看到了蝉时雨老师的博客[Zero](https://github.com/javalent/settings-search)十分喜欢，无奈我是一个代码小白，只能眼馋
+无意间看到了蝉时雨老师的博客[Zero](https://github.com/chanshiyucx/zero)十分喜欢，无奈我是一个代码小白，只能眼馋
 
 2026年
 
