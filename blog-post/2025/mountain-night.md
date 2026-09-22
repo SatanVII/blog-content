@@ -1,6 +1,6 @@
 ---
 title: 山中一夜
-date: 2024-08-12
+date: 2025-08-12
 category: 随笔
 tags:
   - 旅行

@@ -1,6 +1,6 @@
 ---
 title: 星图手记
-date: 2024-10-20
+date: 2025-10-20
 category: 日志
 tags:
   - 天文
