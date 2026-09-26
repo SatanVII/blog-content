@@ -4,7 +4,6 @@ date: 2025-08-12
 category: 随笔
 tags:
   - 旅行
-  - 生活
 description: 夜宿山中，听了一整夜的风声与溪声。
 ---
 
