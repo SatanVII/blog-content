@@ -2,3 +2,6 @@
 # Obsidian vault 配置（仅备份 app.json，忽略插件缓存与工作区状态）
 .obsidian/*
 !.obsidian/app.json
+
+# 写作模板（Obsidian Templater）：仅本地使用，不提交、不参与构建
+/templates/
