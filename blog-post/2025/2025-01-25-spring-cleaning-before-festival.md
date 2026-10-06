@@ -1,8 +1,8 @@
 ---
 title: 春节前的大扫除
 date: 2025-01-25
-tags: 春节
 category: 随笔
+tags: 春节
 description: 擦了三扇窗，扔了两袋东西，手指被玻璃水泡得发白。
 ---
 

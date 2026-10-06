@@ -1,8 +1,8 @@
 ---
 title: 陪母亲去医院复查
 date: 2025-04-15
-tags: 家人
 category: 日志
+tags: 家人
 description: 早上七点半去排队，检查结果比上次好，出来吃了碗馄饨。
 ---
 

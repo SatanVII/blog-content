@@ -1,8 +1,8 @@
 ---
 title: 搬家第一天的夜晚
 date: 2025-05-06
-tags: 搬家
 category: 随笔
+tags: 搬家
 description: 东西都堆在地上，没找到床单，凑合睡了一晚。
 ---
 

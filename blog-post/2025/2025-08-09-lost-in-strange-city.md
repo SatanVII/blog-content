@@ -1,8 +1,8 @@
 ---
 title: 在陌生城市迷路
 date: 2025-08-09
-tags: 旅行
 category: 随笔
+tags: 旅行
 description: 出差的城市，晚上出去找吃的，走错了两个路口。
 ---
 

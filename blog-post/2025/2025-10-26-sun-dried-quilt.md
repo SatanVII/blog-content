@@ -1,8 +1,8 @@
 ---
 title: 秋天晒被子
 date: 2025-10-26
-tags: 秋天
 category: 随笔
+tags: 秋天
 description: 挑了个大晴天晒被子，晚上睡觉有太阳的味道。
 ---
 

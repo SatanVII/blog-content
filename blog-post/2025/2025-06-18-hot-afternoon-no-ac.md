@@ -1,8 +1,8 @@
 ---
 title: 一个很热但不想开空调的下午
 date: 2025-06-18
-tags: 夏天
 category: 日志
+tags: 夏天
 description: 三十四度，风扇开到最大，靠一杯冰水撑过下午。
 ---
 

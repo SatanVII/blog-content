@@ -1,8 +1,8 @@
 ---
 title: 年初写下的三条计划
 date: 2025-01-08
-tags: 计划
 category: 日志
+tags: 计划
 description: 只写了三条，比往年少，希望年底还认得出来。
 ---
 
