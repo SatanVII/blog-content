@@ -4,7 +4,7 @@ date: 2026-09-22
 category: 关于
 tags:
   - 自述
-description: 我是人类
+description: 喵喵喵
 ---
 
 ## 关于
