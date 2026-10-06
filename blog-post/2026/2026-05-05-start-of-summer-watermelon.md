@@ -1,6 +1,6 @@
 ---
 title: 立夏的西瓜
-date: 2026-05-05 16:30:00
+date: 2026-05-05
 tags: 立夏
 category: 日志
 description: 今年第一个西瓜，切开的时候声音很脆。

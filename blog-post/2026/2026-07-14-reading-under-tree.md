@@ -1,6 +1,6 @@
 ---
 title: 树下读一下午书
-date: 2026-07-14 16:40:00
+date: 2026-07-14
 tags: 阅读
 category: 日志
 description: 带了一本书去公园，读了六十页，睡了一觉。

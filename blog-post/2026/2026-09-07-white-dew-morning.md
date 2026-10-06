@@ -1,6 +1,6 @@
 ---
 title: 白露的早晨
-date: 2026-09-07 06:50:00
+date: 2026-09-07
 tags: 白露
 category: 日志
 description: 出门发现草叶上全是露水，鞋面很快湿了。

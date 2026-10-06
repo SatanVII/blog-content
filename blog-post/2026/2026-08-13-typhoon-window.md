@@ -1,6 +1,6 @@
 ---
 title: 台风天的窗
-date: 2026-08-13 14:10:00
+date: 2026-08-13
 tags: 台风
 category: 随笔
 description: 台风外围影响，雨横着下，窗户缝里渗了水。

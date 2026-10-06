@@ -1,6 +1,6 @@
 ---
 title: 清晨绕湖一圈
-date: 2026-01-04 07:20:00
+date: 2026-01-04
 tags: 散步
 category: 随笔
 description: 早起绕湖走了一圈，看见城市另一副面孔。

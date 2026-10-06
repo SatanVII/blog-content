@@ -1,6 +1,6 @@
 ---
 title: 街角那家炒栗子
-date: 2026-09-29 17:30:00
+date: 2026-09-29
 tags: 栗子
 category: 随笔
 description: 炒栗子的摊子一出现，就说明秋天真的到了。

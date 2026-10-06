@@ -1,6 +1,6 @@
 ---
 title: 夜跑三公里
-date: 2026-05-28 22:05:00
+date: 2026-05-28
 tags: 夜跑
 category: 日志
 description: 重新开始跑步，第一晚只跑了三公里，喘得厉害。

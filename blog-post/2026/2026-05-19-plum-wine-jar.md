@@ -1,6 +1,6 @@
 ---
 title: 腌了一罐梅子酒
-date: 2026-05-19 19:45:00
+date: 2026-05-19
 tags: 梅子酒
 category: 日志
 description: 青梅、冰糖、白酒，装进罐子里等三个月。

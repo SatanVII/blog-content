@@ -1,6 +1,6 @@
 ---
 title: 手冲咖啡练习
-date: 2026-04-02 09:30:00
+date: 2026-04-02
 tags: 咖啡
 category: 随笔
 description: 买了一套入门手冲器具，前五杯都不好喝。

@@ -1,6 +1,6 @@
 ---
 title: 夏至白昼最长
-date: 2026-06-21 19:30:00
+date: 2026-06-21
 tags: 夏至
 category: 随笔
 description: 一年里白天最长的一天，我把它过得很平常。

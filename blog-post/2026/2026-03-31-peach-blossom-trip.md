@@ -1,6 +1,6 @@
 ---
 title: 去看桃花
-date: 2026-03-31 17:40:00
+date: 2026-03-31
 tags: 春天
 category: 日志
 description: 请了半天假去看花，人比花多，但还是值。

@@ -1,6 +1,6 @@
 ---
 title: 便利店早餐
-date: 2026-03-25 08:05:00
+date: 2026-03-25
 tags: 早餐
 category: 随笔
 description: 连续一个月在同一家便利店买同一样早餐。

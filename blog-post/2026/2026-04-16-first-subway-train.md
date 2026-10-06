@@ -1,6 +1,6 @@
 ---
 title: 早班地铁第一班
-date: 2026-04-16 06:45:00
+date: 2026-04-16
 tags: 地铁
 category: 随笔
 description: 赶了一次首班车，车厢里的人比想象中多。

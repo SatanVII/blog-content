@@ -1,6 +1,6 @@
 ---
 title: 惊蛰那天打雷
-date: 2026-03-05 23:05:00
+date: 2026-03-05
 tags: 惊蛰
 category: 日志
 description: 今年第一声春雷，来得比节气预报还准时。

@@ -1,6 +1,6 @@
 ---
 title: 小满未满
-date: 2026-05-21 18:10:00
+date: 2026-05-21
 tags: 小满
 category: 随笔
 description: 二十四节气里，最喜欢这个"未满"的名字。

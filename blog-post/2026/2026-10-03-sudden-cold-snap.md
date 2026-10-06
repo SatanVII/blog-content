@@ -1,6 +1,6 @@
 ---
 title: 突然降温
-date: 2026-10-03 09:10:00
+date: 2026-10-03
 tags: 降温
 category: 日志
 description: 一夜之间掉了十度，早上出门穿错了衣服。

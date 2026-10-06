@@ -1,6 +1,6 @@
 ---
 title: 换季衣物整理
-date: 2026-04-10 20:15:00
+date: 2026-04-10
 tags: 整理
 category: 日志
 description: 把厚衣服收起来，翻出三件已经不想穿的外套。

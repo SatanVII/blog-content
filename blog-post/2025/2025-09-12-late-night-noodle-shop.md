@@ -1,6 +1,6 @@
 ---
 title: 深夜的面馆
-date: 2025-09-12 23:50:00
+date: 2025-09-12
 tags: 深夜
 category: 日志
 description: 十一点半还开着的面馆，坐满了不说话的人。

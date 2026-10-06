@@ -1,6 +1,6 @@
 ---
 title: 雨中公交车
-date: 2026-02-28 18:20:00
+date: 2026-02-28
 tags: 公交
 category: 日志
 description: 下雨天的晚高峰，车厢像一只装满人的罐头。

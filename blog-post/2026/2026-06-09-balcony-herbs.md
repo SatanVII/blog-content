@@ -1,6 +1,6 @@
 ---
 title: 阳台上的香草
-date: 2026-06-09 07:50:00
+date: 2026-06-09
 tags: 植物
 category: 日志
 description: 薄荷、罗勒、迷迭香，目前只活下来两个。

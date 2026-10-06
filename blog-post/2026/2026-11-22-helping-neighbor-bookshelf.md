@@ -1,6 +1,6 @@
 ---
 title: 帮邻居装书架
-date: 2026-11-22 16:20:00
+date: 2026-11-22
 tags: 邻居
 category: 日志
 description: 楼上阿姨买了个书架，我帮她拧了一下午螺丝。

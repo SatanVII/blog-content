@@ -1,6 +1,6 @@
 ---
 title: 停电的傍晚
-date: 2026-02-27 19:40:00
+date: 2026-02-27
 tags: 停电
 category: 随笔
 description: 停电四十分钟，反而把屋子里的声音都听见了。

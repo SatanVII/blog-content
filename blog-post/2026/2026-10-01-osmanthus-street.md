@@ -1,6 +1,6 @@
 ---
 title: 桂花香飘满街
-date: 2026-10-01 17:50:00
+date: 2026-10-01
 tags: 桂花
 category: 随笔
 description: 十月的第一件事，是发现整条街都是甜的。

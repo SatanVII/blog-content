@@ -1,6 +1,6 @@
 ---
 title: 秋分白天变短了
-date: 2026-09-23 19:20:00
+date: 2026-09-23
 tags: 秋分
 category: 日志
 description: 下班出门天已经黑了，才意识到秋天过半。

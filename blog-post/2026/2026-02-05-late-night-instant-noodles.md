@@ -1,6 +1,6 @@
 ---
 title: 深夜的泡面
-date: 2026-02-05 00:35:00
+date: 2026-02-05
 tags: 深夜
 category: 日志
 description: 零点以后的一碗泡面，比正餐更容易让人放松。

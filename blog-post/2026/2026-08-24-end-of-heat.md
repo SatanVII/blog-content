@@ -1,6 +1,6 @@
 ---
 title: 处暑之后
-date: 2026-08-24 18:40:00
+date: 2026-08-24
 tags: 处暑
 category: 日志
 description: 处暑第二天，傍晚六点半的风终于不烫人了。

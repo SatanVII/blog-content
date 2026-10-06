@@ -1,6 +1,6 @@
 ---
 title: 学会说不
-date: 2026-04-28 22:20:00
+date: 2026-04-28
 tags: 成长
 category: 随笔
 description: 拒绝了一个不太想接的活，代价是十分钟的尴尬。
