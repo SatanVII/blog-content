@@ -43,33 +43,6 @@ description: 测试 测试 测试
 孤独 -> 爱情 -> 靠近又推开 -> 回到孤独
 ```
 
-```
-import { getCollection } from 'astro:content';
-
-import BaseLayout from '@/layouts/BaseLayout.astro';
-
-import PostList from '@/components/PostList.astro';
-
-import { EXCLUDED_CATEGORIES } from '@/utils/content';
-
-  
-
-const entries = (await getCollection('post'))
-
-  .filter(({ data }) => !EXCLUDED_CATEGORIES.includes(data.category))
-
-  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
-
----
-
-  
-
-<BaseLayout>
-
-  <PostList entries={entries} />
-
-</BaseLayout>
-```
 
 - **循环**让历史显得荒诞：人们拼命反抗，却重复祖辈的错。
 - **遗忘**比死亡更可怕：当记忆被抹去，存在就失去证据。
