@@ -15,7 +15,7 @@ description: 喵喵喵
 
 2026年
 
-时间来到2026！AI好厉害！本站由GLM-5.3-Flash和Deepseek-4.1-Flash重构到Astro，实现梦想~嘻嘻
+时间来到2026！AI好厉害！本站由GLM-5.3-Flash和Deepseek-4.1-Flash重构到Astro，实现梦想~
 
 >感谢蝉时雨老师伟大的审美！
 
