@@ -13,6 +13,8 @@ description: 一段神秘的话...
 
 ---
 
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4jX3GL7gh3Y1SvahFCWHMz?utm_source=generator&theme=0&si=4d01c252bf614c77" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ## 一、幕后冷知识
 
 - **第三部原本不存在**：霍洛维茨写完前两部庞德小说后，系列本可收官。
