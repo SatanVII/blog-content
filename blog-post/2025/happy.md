@@ -19,13 +19,7 @@ description: 测试 测试 测试
 
 ---
 
-<iframe
-  src="https://music.163.com/outchain/player?type=2&id=22651731&auto=0&height=66"
-  frameborder="0" border="0" marginwidth="0" marginheight="0"
-  width="330" height="86" style="max-width:100%"
-  loading="lazy"></iframe>
   
-
 ## 一、孤独：不是没人爱，而是无法被理解
 
 初读时，我被满纸相似的名字劝退；再读才发现，**重复的名字就是重复的命运**。布恩迪亚家族七代人，有人沉迷炼金术，有人发动战争，有人缝制裹尸布，有人把爱情烧成灰。他们看似走在不同路上，最后都回到同一个房间：*孤独*。
